@@ -1,0 +1,18 @@
+Para obtener el archivo más actualizado de GitHub
+    GIT PULL ORIGIN
+
+Para subir un archivo al GitHub
+    GIT ADD .
+    GIT COMMIT -M "mensaje"
+
+Para Mezclar tu RAMA con la DEVELOPE
+    GIT MERGE DEVELOPE
+
+Para mezclar la RAMA DEVELOPE con tu RAMA
+    GIT MERGE 'TU RAMA'
+
+Para comprobar las ramas
+    GIT BRANCH
+
+Para cambiar la RAMA 
+    GIT CHECKOUT 'rama'
